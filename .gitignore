@@ -1,0 +1,8 @@
+# SwiftPM / Xcode local state
+.build/
+.swiftpm/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+.DS_Store
+*.xcresult
